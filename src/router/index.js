@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
-
+import Layout from '@/containers/Layout/Layout'
+import Home from '@/containers/Home/Home'
 Vue.use(Router)
 
 export default new Router({
